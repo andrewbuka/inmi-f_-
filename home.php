@@ -9,7 +9,7 @@
 		<div class="main-slide-navigation"></div>
 		<ul class="main-soc-list">
 			<li><a target="_blank" href="https://www.tiktok.com/@inmi.by">Tiktok</a></li>
-			<li><a target="_blank" href="https://www.youtube.com/@inmi_bioproduct">YuoTube</a></li>
+			<li><a target="_blank" href="https://www.youtube.com/@inmi_bioproduct">YouTube</a></li>
 
 			<li><a target="_blank" href="https://invite.viber.com/?g2=AQBraLupPo8rSk2YPoN%2Bzo70k8QbxSBkOzKJG%2BMsZDnRDZS2JDAB2O%2FKSmRkYEkg&lang=ru">Viber</a></li>
 			
