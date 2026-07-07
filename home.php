@@ -31,7 +31,7 @@
 						setup_postdata( $post );
 						
 				?>
-					<div class="main-slide" style="background-image: url('<?php the_field('slide-back') ?>');background-position: center;
+					<div class="main-slide main-slide-<?php echo esc_attr( sanitize_title( get_the_title() ) ); ?>" style="background-image: url('<?php the_field('slide-back') ?>');background-position: center;
     background-repeat: no-repeat;
     background-size: cover;">
 					
